@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+	<title>ANÁLISE DE INFORMAÇÕES</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/css.css">
+
+	<style type="text/css">
+		html, body, h1, h2, h3, h4{
+			font-family: 
+			"lato" , "sans-serif"
+		}
+	</style>
+</head>
+<nav>
+  <ul>
+    
+    <li>
+      <a href="#">Sobre</a>
+    </li>
+    
+  </ul>
+</nav>
+
+
+<body id="principal">
+ 	<div id="inicial" class="visivel">
+		
+			<h1>ANÁLISE DE INFORMAÇÕES</h1>
+			<a href="html/home.html" id="entrada">ENTRAR</a>
+		
+	</div>
+	
+</body>
+</html>
